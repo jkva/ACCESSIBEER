@@ -1,4 +1,4 @@
-# #ACCESSIBEER
+# ACCESSIBEER
 
 ## What is it?
 #ACCESSIBEER is an event during the Annual International Technology and Persons with Disabilities Conference (CSUN) in San Diego. It was started as a way to get together with people outside of the fields that the host, Jon Metz, was working on. There's a lot of amazing people in the field of accessibility, so it was important to Jon to find some kind of common thread that could bring them all together.
