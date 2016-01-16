@@ -1,13 +1,13 @@
 # ACCESSIBEER
 
 ## What is it?
-#ACCESSIBEER is an event during the Annual International Technology and Persons with Disabilities Conference (CSUN) in San Diego. It was started as a way to get together with people outside of the fields that the host, Jon Metz, was working on. There's a lot of amazing people in the field of accessibility, so it was important to Jon to find some kind of common thread that could bring them all together.
+ACCESSIBEER is an event during the Annual International Technology and Persons with Disabilities Conference (CSUN) in San Diego. It was started as a way to get together with people outside of the fields that the host, Jon Metz, was working on. There's a lot of amazing people in the field of accessibility, so it was important to Jon to find some kind of common thread that could bring them all together.
 
 ## Why Beer?
 Not everyone likes coffee.
 
 ## How does accessibility play into it?
-The spirit of #ACCESSIBEER is derived from exploring the basic excercise of taking something that is generally hyperfocused on one kind of ability, and making it universally inclusive.  
+The spirit of ACCESSIBEER is derived from exploring the basic excercise of taking something that is generally hyperfocused on one kind of ability, and making it universally inclusive.  
 
 ##Some Background
 
